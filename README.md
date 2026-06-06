@@ -98,7 +98,7 @@ Open WhatsApp and send a message to the bot number. You should receive a reply i
 
 ## 📸 Demo
 
-![Bot Demo](https://i.ibb.co/wNrYmcsC/Screenshot-2026-06-06-22-49-31-136-com-whatsapp-w4b.jpg)
+![Bot Demo](https://i.ibb.co/BKr5Vjhf/Screenshot-2026-06-06-23-18-26-710-com-whatsapp-w4b.jpg)
 
 ---
 
